@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfD6T9+wBtihFQbHhHiYYOu9S2a2NEkq3JzFibB+mgPMymXWHR/CQdiar4G9L2IGmqLLbeI7Uy+9B9OMZFjkuw==",
+  "success": true,
+  "projectFilePath": "C:\\Projectos Visual Studio 2019\\Travel_App_Start_UI\\Travel_App_Start_UI\\Travel_App_Start_UI.iOS\\Travel_App_Start_UI.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabio\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\fabio\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
